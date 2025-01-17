@@ -6,9 +6,9 @@ Este proyecto permite generar códigos QR a partir de un archivo Excel utilizand
 
 ```plaintext
 📂 Proyecto
-├── 📂 assets          # Carpeta para almacenar los códigos QR generados
+├── 📂 assets          # Imagenes
 ├── 📂 qr              # Códigos QR generados organizados
-├── 📄 data.xlsx       # Archivo Excel con los datos de entrada
+├── 📄 Territorios URL.xlsx       # Archivo Excel con los datos de entrada
 ├── 📄 qrcodes.py      # Script principal para generar los códigos QR
 ```
 # USO 
