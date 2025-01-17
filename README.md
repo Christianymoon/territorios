@@ -1,4 +1,4 @@
-# Generador de Códigos QR
+# Territorios Google Maps
 
 Este proyecto permite generar códigos QR a partir de un archivo Excel utilizando un script en Python. Está organizado con la siguiente estructura de directorios y archivos:
 
@@ -10,4 +10,7 @@ Este proyecto permite generar códigos QR a partir de un archivo Excel utilizand
 ├── 📂 qr              # Códigos QR generados organizados
 ├── 📄 data.xlsx       # Archivo Excel con los datos de entrada
 ├── 📄 qrcodes.py      # Script principal para generar los códigos QR
-└── 📄 requirements.txt # Lista de dependencias del proyecto
+```
+# USO 
+<code>python qrcodes.py</code>
+
